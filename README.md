@@ -4,7 +4,7 @@
 # Sorting
 ## Bubble Sort
 ```
-Time : O(n^2)
+// Time : O(n^2)
 public static int[] bubble_sort(int[] a){
         int n = a.length;
         for(int i=0; i<n; i++){
