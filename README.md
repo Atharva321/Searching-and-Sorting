@@ -23,7 +23,7 @@ public static int[] bubble_sort(int[] a){
 ## Selection Sort
 ```
 // Time  : O(n^2)
-// Space : 
+// Space : O(1) 
  public static void selectionSort(int[] arr){  
         for (int i = 0; i < arr.length - 1; i++)  
         {  
