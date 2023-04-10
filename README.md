@@ -42,7 +42,7 @@ public static int[] bubble_sort(int[] a){
 ## Insertion Sort
 ```
 // Time  : O(n^2)
-// Space : 
+// Space : O(1)
 public static void insertionSort(int array[]) {
     int size = array.length;
 
